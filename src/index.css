@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+/* Tailwind CSS v4 directive. */
+/* stylelint-disable-next-line at-rule-no-unknown */
+@theme {
+  --color-navy-900: #0B1B3D;
+  --color-navy-800: #0F2552;
+
+  --color-saffron-500: #EA580C;
+  --color-saffron-600: #E65100;
+}
+
+html {
+  scroll-behavior: smooth;
+}
